@@ -1,0 +1,15 @@
+c:\users\u131142\documents\visual studio 2015\Projects\lab4_pr\lab4_pr\bin\Debug\lab4_pr.exe.config
+C:\Users\u131142\Documents\Visual Studio 2015\Projects\lab4_pr\lab4_pr\bin\Debug\lab4_pr.exe
+C:\Users\u131142\Documents\Visual Studio 2015\Projects\lab4_pr\lab4_pr\bin\Debug\lab4_pr.pdb
+C:\Users\u131142\Documents\Visual Studio 2015\Projects\lab4_pr\lab4_pr\obj\Debug\lab4_pr.csprojResolveAssemblyReference.cache
+C:\Users\u131142\Documents\Visual Studio 2015\Projects\lab4_pr\lab4_pr\obj\Debug\lab4_pr.exe
+C:\Users\u131142\Documents\Visual Studio 2015\Projects\lab4_pr\lab4_pr\obj\Debug\lab4_pr.pdb
+d:\u134058\6 семестр\Практикум по промышленному программированию\Готовые\lab4-master\lab4_pr\lab4_pr\bin\Debug\lab4_pr.exe.config
+d:\u134058\6 семестр\Практикум по промышленному программированию\Готовые\lab4-master\lab4_pr\lab4_pr\obj\Debug\lab4_pr.exe
+d:\u134058\6 семестр\Практикум по промышленному программированию\Готовые\lab4-master\lab4_pr\lab4_pr\obj\Debug\lab4_pr.pdb
+d:\u134058\6 семестр\Практикум по промышленному программированию\Готовые\lab4-master\lab4_pr\lab4_pr\bin\Debug\lab4_pr.exe
+d:\u134058\6 семестр\Практикум по промышленному программированию\Готовые\lab4-master\lab4_pr\lab4_pr\bin\Debug\lab4_pr.pdb
+d:\u134058\6 семестр\Практикум по промышленному программированию\Готовые\lab4-master\lab4_pr\lab4_pr\obj\Debug\lab4_pr.csprojResolveAssemblyReference.cache
+h:\loftblog\lab4-master\lab4_pr\lab4_pr\bin\Debug\lab4_pr.exe.config
+h:\loftblog\lab4-master\lab4_pr\lab4_pr\obj\Debug\lab4_pr.exe
+h:\loftblog\lab4-master\lab4_pr\lab4_pr\obj\Debug\lab4_pr.pdb
